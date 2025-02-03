@@ -1,0 +1,82 @@
+[
+  {
+    "id": 101,
+    "alias": "The Condor",
+    "famous_hack": "Hackte grote bedrijven zoals Nokia en IBM",
+    "arrested": true,
+    "sentence": "5 jaar gevangenisstraf",
+    "image_url": "https://example.com/kevin-mitnick-hack.jpg"
+  },
+  {
+    "id": 102,
+    "alias": "The Homeless Hacker",
+    "famous_hack": "Hackte de New York Times database",
+    "arrested": true,
+    "sentence": "6 maanden huisarrest",
+    "image_url": "https://example.com/adrian-lamo-hack.jpg"
+  },
+  {
+    "id": 103,
+    "alias": "Solo",
+    "famous_hack": "Inbraken bij NASA en Pentagon systemen",
+    "arrested": true,
+    "sentence": "Uitlevering aan VS geweigerd door VK",
+    "image_url": "https://example.com/gary-mckinnon-hack.jpg"
+  },
+  {
+    "id": 104,
+    "alias": "Anonymous",
+    "famous_hack": "DDoS-aanvallen op overheden en bedrijven",
+    "arrested": false,
+    "sentence": "N.v.t.",
+    "image_url": "https://example.com/anonymous-hack.jpg"
+  },
+  {
+    "id": 105,
+    "alias": "Soupnazi",
+    "famous_hack": "Gestolen gegevens van 170 miljoen creditcards",
+    "arrested": true,
+    "sentence": "20 jaar gevangenisstraf",
+    "image_url": "https://example.com/albert-gonzalez-hack.jpg"
+  },
+  {
+    "id": 106,
+    "alias": "c0mrade",
+    "famous_hack": "NASA en het Amerikaanse leger gehackt",
+    "arrested": true,
+    "sentence": "Jeugdgevangenis, later zelfmoord gepleegd",
+    "image_url": "https://example.com/jonathan-james-hack.jpg"
+  },
+  {
+    "id": 107,
+    "alias": "n/a",
+    "famous_hack": "Beheer van enorme botnets voor illegale winst",
+    "arrested": true,
+    "sentence": "57 maanden gevangenisstraf",
+    "image_url": "https://example.com/jeanson-ancheta-hack.jpg"
+  },
+  {
+    "id": 108,
+    "alias": "n/a",
+    "famous_hack": "Inbraken bij NASA, FBI en Amerikaanse Defensie",
+    "arrested": true,
+    "sentence": "Niet uitgeleverd aan de VS, juridische strijd in VK",
+    "image_url": "https://example.com/lauri-love-hack.jpg"
+  },
+  {
+    "id": 109,
+    "alias": "n/a",
+    "famous_hack": "Identificatie van Silk Road beheerder Ross Ulbricht",
+    "arrested": false,
+    "sentence": "Geen, was een FBI-onderzoeker",
+    "image_url": "https://example.com/gary-alford-hack.jpg"
+  },
+  {
+    "id": 110,
+    "alias": "n/a",
+    "famous_hack": "Exploit van meerdere crypto exchanges",
+    "arrested": false,
+    "sentence": "Onderzoek loopt nog",
+    "image_url": "https://example.com/albert-subirats-hack.jpg"
+  }
+]
