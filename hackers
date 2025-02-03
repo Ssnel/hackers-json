@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "name": "Kevin Mitnick",
+    "description": "Een van de bekendste hackers, gespecialiseerd in social engineering en computerinbraken.",
+    "age": 59,
+    "active": false,
+    "birthdate": "1963-08-06",
+    "image_url": "https://example.com/kevin-mitnick.jpg",
+    "status": "historisch",
+    "hobbies": ["Social engineering", "Penetration testing", "Schrijven"],
+    "hack_details": {
+      "id": 101,
+      "alias": "The Condor",
+      "famous_hack": "Hackte grote bedrijven zoals Nokia en IBM",
+      "arrested": true,
+      "sentence": "5 jaar gevangenisstraf",
+      "image_url": "https://example.com/kevin-mitnick-hack.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Adrian Lamo",
+    "description": "Bekend om het hacken van bedrijven zoals Microsoft en Yahoo.",
+    "age": 37,
+    "active": false,
+    "birthdate": "1981-02-20",
+    "image_url": "https://example.com/adrian-lamo.jpg",
+    "status": "historisch",
+    "hobbies": ["Onderzoek", "Journalistiek", "Cybersecurity"],
+    "hack_details": {
+      "id": 102,
+      "alias": "The Homeless Hacker",
+      "famous_hack": "Hackte de New York Times database",
+      "arrested": true,
+      "sentence": "6 maanden huisarrest",
+      "image_url": "https://example.com/adrian-lamo-hack.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Gary McKinnon",
+    "description": "Hackte NASA en het Amerikaanse leger, beweerde bewijs van UFO's te zoeken.",
+    "age": 58,
+    "active": false,
+    "birthdate": "1966-02-10",
+    "image_url": "https://example.com/gary-mckinnon.jpg",
+    "status": "historisch",
+    "hobbies": ["IT-beveiliging", "UFO-onderzoek", "Muziek"],
+    "hack_details": {
+      "id": 103,
+      "alias": "Solo",
+      "famous_hack": "Inbraken bij NASA en Pentagon systemen",
+      "arrested": true,
+      "sentence": "Uitlevering aan VS geweigerd door VK",
+      "image_url": "https://example.com/gary-mckinnon-hack.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Anonymous",
+    "description": "Een gedecentraliseerde hacktivistische groepering.",
+    "age": null,
+    "active": true,
+    "birthdate": null,
+    "image_url": "https://example.com/anonymous.jpg",
+    "status": "actief",
+    "hobbies": ["Hacktivisme", "Cyberaanvallen", "Vrijheid van informatie"],
+    "hack_details": {
+      "id": 104,
+      "alias": "Anonymous",
+      "famous_hack": "DDoS-aanvallen op overheden en bedrijven",
+      "arrested": false,
+      "sentence": "N.v.t.",
+      "image_url": "https://example.com/anonymous-hack.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Albert Gonzalez",
+    "description": "Bekend om creditcardfraude en het hacken van miljoenen kaarten.",
+    "age": 42,
+    "active": false,
+    "birthdate": "1981-06-01",
+    "image_url": "https://example.com/albert-gonzalez.jpg",
+    "status": "historisch",
+    "hobbies": ["Cybercrime", "Fraude", "Softwareontwikkeling"],
+    "hack_details": {
+      "id": 105,
+      "alias": "Soupnazi",
+      "famous_hack": "Gestolen gegevens van 170 miljoen creditcards",
+      "arrested": true,
+      "sentence": "20 jaar gevangenisstraf",
+      "image_url": "https://example.com/albert-gonzalez-hack.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Jonathan James",
+    "description": "Hackte NASA op jonge leeftijd en verkreeg gevoelige informatie.",
+    "age": 24,
+    "active": false,
+    "birthdate": "1983-12-12",
+    "image_url": "https://example.com/jonathan-james.jpg",
+    "status": "historisch",
+    "hobbies": ["Programmeren", "Cybersecurity", "Games"],
+    "hack_details": {
+      "id": 106,
+      "alias": "c0mrade",
+      "famous_hack": "NASA en het Amerikaanse leger gehackt",
+      "arrested": true,
+      "sentence": "Jeugdgevangenis, later zelfmoord gepleegd",
+      "image_url": "https://example.com/jonathan-james-hack.jpg"
+    }
+  },
+ {
+    "id": 7,
+    "name": "Jeanson James Ancheta",
+    "description": "Hackte duizenden computers met botnets om ze te verkopen.",
+    "age": 38,
+    "active": false,
+    "birthdate": "1985-08-13",
+    "image_url": "https://example.com/jeanson-ancheta.jpg",
+    "status": "historisch",
+    "hobbies": ["Botnet creatie", "Cybercrime", "IT-beveiliging"],
+    "hack_details": {
+      "id": 107,
+      "alias": "n/a",
+      "famous_hack": "Beheer van enorme botnets voor illegale winst",
+      "arrested": true,
+      "sentence": "57 maanden gevangenisstraf",
+      "image_url": "https://example.com/jeanson-ancheta-hack.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Lauri Love",
+    "description": "Britse hacker die systemen van de Amerikaanse overheid aanviel.",
+    "age": 39,
+    "active": true,
+    "birthdate": "1984-12-14",
+    "image_url": "https://example.com/lauri-love.jpg",
+    "status": "actief",
+    "hobbies": ["Hacktivisme", "Cybersecurity", "Vrijheid van informatie"],
+    "hack_details": {
+      "id": 108,
+      "alias": "n/a",
+      "famous_hack": "Inbraken bij NASA, FBI en Amerikaanse Defensie",
+      "arrested": true,
+      "sentence": "Niet uitgeleverd aan de VS, juridische strijd in VK",
+      "image_url": "https://example.com/lauri-love-hack.jpg"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Gary Alford",
+    "description": "Speelde een sleutelrol in de opsporing van de Silk Road beheerder.",
+    "age": 45,
+    "active": true,
+    "birthdate": "1978-11-23",
+    "image_url": "https://example.com/gary-alford.jpg",
+    "status": "actief",
+    "hobbies": ["Cyberonderzoek", "Forensische IT", "Speurwerk"],
+    "hack_details": {
+      "id": 109,
+      "alias": "n/a",
+      "famous_hack": "Identificatie van Silk Road beheerder Ross Ulbricht",
+      "arrested": false,
+      "sentence": "Geen, was een FBI-onderzoeker",
+      "image_url": "https://example.com/gary-alford-hack.jpg"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Albert Subirats",
+    "description": "Hackte systemen om geld te stelen via cryptocurrency exploits.",
+    "age": 34,
+    "active": true,
+    "birthdate": "1989-05-22",
+    "image_url": "https://example.com/albert-subirats.jpg",
+    "status": "actief",
+    "hobbies": ["Blockchain hacking", "Cryptojacking", "Cyberaanvallen"],
+    "hack_details": {
+      "id": 110,
+      "alias": "n/a",
+      "famous_hack": "Exploit van meerdere crypto exchanges",
+      "arrested": false,
+      "sentence": "Onderzoek loopt nog",
+      "image_url": "https://example.com/albert-subirats-hack.jpg"
+    }
+  }
+]
